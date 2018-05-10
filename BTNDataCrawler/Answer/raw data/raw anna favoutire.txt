@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<META NAME="ROBOTS" CONTENT="NOODP">
+<title>Anna | Harvest Moon: Back to Nature - Characters</title>
+<meta name="description" content="Information about the character Anna from the videogame Harvest Moon: Back to Nature on the PS1 including her background, schedule, birthday and gift preferences." />
+<meta name="keywords" content="Harvest Moon, Back to Nature, PS1, Videogame, Characters, Anna" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="image_src" href="http://harvestmoonbacktonatureguide.com/images/facebook-thumbnail.png" />
+<script type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+//-->
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19538101-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body background="images/dark_bg.png" onload="MM_preloadImages('images/download_code_over.png','images/bluehost_over.png','images/donate_over.png','images/crops-over.png','images/animals-over.png','images/mining-over.png','images/fishing-over.png','images/tools-over.png','images/girls-over.png','images/characters-over.png','images/festivals-over.png','images/shops-over.png','images/cooking-over.png','images/berries-over.png','images/secrets-over.png','images/misc-over.png','images/shipping-over.png')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="80"><div align="center"><a href="index.html"><img src="images/logo.png" alt="Harvest Moon: Back to Nature Guide" width="649" height="50" /></a></div></td>
+  </tr>
+  <tr>
+    <td height="20" background="images/100_line_top.png">&nbsp;</td>
+  </tr>
+  <tr>
+    <td background="images/light_bg.png"><div align="center">
+      <table width="950" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td colspan="5"><a href="crops.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('crops','','images/crops-over.png',1)"><img src="images/crops-normal.png" alt="Crops" name="crops" width="77" height="30" border="0" id="crops" /></a><a href="animals.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('animals','','images/animals-over.png',1)"><img src="images/animals-normal.png" alt="Animals" name="animals" width="62" height="30" border="0" id="animals" /></a><a href="mining.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mining','','images/mining-over.png',1)"><img src="images/mining-normal.png" alt="Mining" name="mining" width="57" height="30" border="0" id="mining" /></a><a href="fishing.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fishing','','images/fishing-over.png',1)"><img src="images/fishing-normal.png" alt="Fishing" name="fishing" width="59" height="30" border="0" id="fishing" /></a><a href="tools.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tools','','images/tools-over.png',1)"><img src="images/tools-normal.png" alt="Tools" name="tools" width="51" height="30" border="0" id="tools" /></a><a href="girls.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('girls','','images/girls-over.png',1)"><img src="images/girls-normal.png" alt="Girls" name="girls" width="49" height="30" border="0" id="girls" /></a><a href="characters.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('characters','','images/characters-over.png',1)"><img src="images/characters-normal.png" alt="Characters" name="characters" width="82" height="30" border="0" id="characters" /></a><a href="festivals.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('festivals','','images/festivals-over.png',1)"><img src="images/festivals-normal.png" alt="Festivals" name="festivals" width="70" height="30" border="0" id="festivals" /></a><a href="shops.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shops','','images/shops-over.png',1)"><img src="images/shops-normal.png" alt="Shops" name="shops" width="54" height="30" border="0" id="shops" /></a><a href="cooking.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cooking','','images/cooking-over.png',1)"><img src="images/cooking-normal.png" alt="Cooking and Recipes" name="cooking" width="63" height="30" border="0" id="cooking" /></a><a href="berries.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('berries','','images/berries-over.png',1)"><img src="images/berries-normal.png" alt="Power Berries" name="berries" width="99" height="30" border="0" id="berries" /></a><a href="secrets.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('secrets','','images/secrets-over.png',1)"><img src="images/secrets-normal.png" alt="Secrets and Cheats" name="secrets" width="65" height="30" border="0" id="secrets" /></a><a href="misc.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('misc','','images/misc-over.png',1)"><img src="images/misc-normal.png" alt="Misc" name="misc" width="47" height="30" border="0" id="misc" /></a><a href="shipping-list.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shipping','','images/shipping-over.png',1)"><img src="images/shipping-normal.png" alt="Shipping List" name="shipping" width="115" height="30" border="0" id="shipping" /></a></td>
+          </tr>
+        <tr>
+          <td height="20" colspan="5" background="images/950_line.png">&nbsp;</td>
+          </tr>
+        <tr>
+          <td height="90" colspan="5"><table width="950" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="45" height="45"><a href="http://www.facebook.com/pages/Harvest-Moon-Back-to-Nature-Guide/219404698074699" rel="nofollow" target="_blank"><img src="images/facebook.png" alt="Like our page on Facebook" width="45" height="45" /></a></td>
+              <td width="140"><a href="http://www.facebook.com/pages/Harvest-Moon-Back-to-Nature-Guide/219404698074699" rel="nofollow" target="_blank">Like our page on Facebook</a></td>
+              <td width="15" rowspan="2" background="images/vertical_line.png">&nbsp;</td>
+              <td width="11" rowspan="2" background="images/ad-left.png">&nbsp;</td>
+              <td width="728" rowspan="2" bgcolor="f9f9f9"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4088118470579652";
+/* HM BTN: Guide */
+google_ad_slot = "3003115263";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+          </script>
+                  <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script></td>
+              <td width="11" rowspan="2" background="images/ad-right.png">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="45"><a href="http://twitter.com/#!/hmbtnguide" rel="nofollow" target="_blank"><img src="images/twitter.png" alt="Follow us on Twitter" width="45" height="45" /></a></td>
+              <td width="140" height="45"><a href="http://twitter.com/#!/hmbtnguide" rel="nofollow" target="_blank">Follow us on Twitter</a></td>
+            </tr>
+          </table></td>
+          </tr>
+        <tr>
+          <td height="20" colspan="5" background="images/950_line.png">&nbsp;</td>
+          </tr>
+        <tr>
+          <td colspan="5" background="images/light_bg.png"><table width="950" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td valign="top">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="290"><a href="http://www.amazon.com/mn/search/?_encoding=UTF8&tag=ultimoriga-20&linkCode=ur2&camp=1789&creative=390957&field-keywords=harvest%20moon%20back%20to%20nature&url=search-alias%3Daps" rel="nofollow" target="_blank"><img src="images/screenshots/anna.png" title="Anna apparently really loves flowers." alt="Anna" width="290" height="218" /></a></td>
+                <td width="40">&nbsp;</td>
+                <td width="620" valign="top"><h1>Anna</h1>
+                    <p>Anna is married to <a href="basil.html">Basil</a> in this videogame and she is the mother of <a href="mary.html">Mary</a>. She's a kind and level headed person. Her family moved to the village from the city a few years ago.</p>
+                  <p>If you plant 90+ of any flower or combination of flowers on your farm she will come by, take all your flowers and give you a <a href="berries.html">Power Berry</a>.</p>
+                  <p>Birthday: Fall 22</p></td>
+              </tr>
+            </table>
+              <p>&nbsp;</p>
+              <h2>Anna's schedule</h2>
+            <table width="950" border="0" cellspacing="0" cellpadding="0" class="lines">
+                <tr>
+                  <td width="320" background="images/villager_bg.png"><strong>Day</strong></td>
+                  <td width="310" background="images/villager_bg.png"><strong>Time</strong></td>
+                  <td width="320" background="images/villager_bg.png"><strong>Location</strong></td>
+                </tr>
+                <tr>
+                  <td>Every day except Monday</td>
+                  <td>6:00 am to 1:00 pm</td>
+                  <td>Inside her house</td>
+                </tr>
+                <tr>
+                  <td>Every day except Monday</td>
+                  <td>2:00 pm to 4:00 pm</td>
+                  <td>At the town square</td>
+                </tr>
+                <tr>
+                  <td>Every day except Monday</td>
+                  <td>5:00 pm to 12:00 am</td>
+                  <td>Inside her house</td>
+                </tr>
+                <tr>
+                  <td>Every day except Monday (if it's raining)</td>
+                  <td>All day</td>
+                  <td>Inside her house</td>
+                </tr>
+                <tr>
+                  <td>Monday</td>
+                  <td>6:00 am to 7:00 pm</td>
+                  <td>Inside her house</td>
+                </tr>
+                <tr>
+                  <td>Monday</td>
+                  <td>8:30 am to 10:00 am</td>
+                  <td>On Mother Hill by the flowers</td>
+                </tr>
+                <tr>
+                  <td>Monday</td>
+                  <td>11:30 am to 1:00 pm</td>
+                  <td>Inside her house</td>
+                </tr>
+                <tr>
+                  <td>Monday</td>
+                  <td>1:30 pm to 4:00 pm</td>
+                  <td>Inside the <a href="shops.html#supermarket">supermarket</a></td>
+                </tr>
+                <tr>
+                  <td>Monday</td>
+                  <td>4:30 pm to 12:00 am</td>
+                  <td>Inside her house</td>
+                </tr>
+                <tr>
+                  <td>Monday (if it's raining)</td>
+                  <td>6:00 am to 1:00 pm</td>
+                  <td>Inside her house</td>
+                </tr>
+                <tr>
+                  <td>Monday (if it's raining)</td>
+                  <td>1:30 pm to 4:00 pm</td>
+                  <td>Inside the <a href="shops.html#supermarket">supermarket</a></td>
+                </tr>
+                <tr>
+                  <td>Monday (if it's raining)</td>
+                  <td>4:30 pm to 12:00 am</td>
+                  <td>Inside her house</td>
+                </tr>
+              </table>
+            <p>&nbsp;</p>
+            <table width="950" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="20" colspan="4" background="images/950_line.png">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="196" height="90"><a href="http://www.amazon.com/gp/product/B004MW4FE4/ref=as_li_tf_tl?ie=UTF8&amp;tag=hmbtn-ad-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B004MW4FE4" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('download-small','','images/download-small-over.png',1)"><img src="images/download-small.png" alt="Download Harvest Moon: Back to Nature" name="download-small" width="196" height="90" border="0" id="download-small" /></a></td>
+                <td width="15" background="images/vertical_line.png">&nbsp;</td>
+                <td width="11">&nbsp;</td>
+                <td width="728" bgcolor="f9f9f9"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4088118470579652";
+/* HM: BTN Guide Middle */
+google_ad_slot = "3595368083";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+              </script>
+                    <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script></td>
+              </tr>
+              <tr>
+                <td height="20" colspan="4" background="images/950_line.png">&nbsp;</td>
+              </tr>
+            </table>
+            <p>&nbsp;</p>
+            <p>In this videogame you're probably best off just collecting flowers on the mountain for free to give to Anna.</p>
+            <p>&nbsp;</p>
+            <h2>Anna's likes and dislikes</h2>
+            <table width="950" border="0" cellspacing="0" cellpadding="0" class="lines">
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Loves</strong></td>
+                </tr>
+                <tr>
+                  <td>Apple Jam, Apple Pie, Blue Magic Red Flower, Cake, Cheesecake, Chocolate Cake, Chocolate Cookie, Cookie, Grape Jam, Ice Cream, Ketchup Recipe, Moondrop Flower, Orange Cup Fruit, Pink Cat Flower, Red Magic Red Flower, Strawberry Jam, Strawberry Milk and Toy Flower </td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Likes</strong></td>
+                </tr>
+                <tr>
+                  <td>Adamantite, Apple, Blue Grass, Bodigizer, Bodigizer XL, Butter, Copper Ore, Curry Powder, Dinner Roll, Egg, Fish (any size), Flour, Gold Ore, Green Grass, Honey, Hot Milk, Jam Bun, Ketchup, Mayonnaise, Milk, Mixed Latte, Mystrile, Oil, Orichalc, Pineapple, Pumpkin Pudding, Raisin Bread, Red Grass, Relaxation Tea Leaves, Silver Ore, Strawberry, SUGDW Apple, Sweet Potato (dish), Turbojolt, Turbojolt XL, Wild Grape, Wine, Wool and Yarn Ball</td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Neutral</strong></td>
+                </tr>
+                <tr>
+                  <td>Bamboo Shoot, Boiled Egg, Bread, Cabbage, Carrot, Chocolate, Corn, Cucumber, Eggplant, Fruit Juice, Fruit Latte, Gold Egg, Grape Juice, Green Pepper, Mixed Juice, Mushroom, Onion, Potato, Pumpkin, Salad, Sandwich, Spinach, Stew, Sweet Potato, Tomato, Tomato Juice, Truffle, Turnip, Vegetable Juice and Veggie Latte</td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Dislikes</strong></td>
+                </tr>
+                <tr>
+                  <td>Bamboo Rice, Cheese, Cheese Fondue, Chirashi Sushi, Curry, Curry Noodles, Fried Noodles, Fried Rice, Fries, Greens, Grilled Fish, Happy Eggplant, Miso Soup, Mushroom Rice, Noodles, Omelet, Pickled Turnips, Pickles, Pizza, Popcorn, Relaxation Tea, Rice Ball, Rice Omelet, Roasted Potatoes, Sashimi, Scrambled Eggs, Spa-Boiled Egg, Stir Fry, Sushi, Tempura, Tempura Noodles, Truffle Rice and Veggie Pancake</td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Hates</strong></td>
+                </tr>
+                <tr>
+                  <td>Bandage, Branch, Chicken Feed, Dead Weeds, Fish Food, Fodder, Food Fiasco, Fries Recipe, Garbage, Lumber, Poisonous Mushroom, Stone, Weeds, Winter Branch, Winter Lumber and Winter Stone</td>
+                </tr>
+              </table>
+            <p>&nbsp;</p></td>
+        </tr>
+        <tr>
+          <td height="20" colspan="5" background="images/950_line.png">&nbsp;</td>
+          </tr>
+          <tr>
+        <td width="300" height="120"><a href="http://www.amazon.com/gp/product/B004MW4FE4/ref=as_li_tf_tl?ie=UTF8&amp;tag=hmbtn-ad-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B004MW4FE4" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('download-harvest-moon-back-to-nature','','images/download-harvest-moon-back-to-nature-over.png',1)"><img src="images/download-harvest-moon-back-to-nature.png" alt="Download Harvest Moon: Back to Nature" name="download-harvest-moon-back-to-nature" width="300" height="100" border="0" id="download-harvest-moon-back-to-nature" /></a></td>
+          <td width="25" height="120">&nbsp;</td>
+          <td width="300" height="120"><a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;tag=ultimoriga-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957&amp;field-keywords=rune%20factory%20tides%20of%20destiny&amp;url=search-alias%3Daps" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rune-factory-oceans','','images/rune-factory-oceans-over.png',1)"><img src="images/rune-factory-oceans.png" alt="Rune Factory Oceans: On Sale Now!" name="rune-factory-oceans" width="300" height="100" border="0" id="rune-factory-oceans" /></a></td>
+          <td width="25" height="120">&nbsp;</td>
+          <td width="300" height="120"><a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;tag=ultimoriga-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957&amp;rh=i%3Aaps%2Ck%3Aharvest%20moon%20a%20tale%20of%20two%20towns&amp;field-keywords=harvest%20moon%20a%20tale%20of%20two%20towns&amp;url=search-alias%3Daps&amp;ajr=0" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('harvest-moon-a-tale-of-two-towns','','images/tale-of-two-towns-over.png',1)"><img src="images/tale-of-two-towns.png" alt="Harvest Moon: A Tale of Two Towns, Buy Now!" name="harvest-moon-a-tale-of-two-towns" width="300" height="100" border="0" id="harvest-moon-a-tale-of-two-towns" /></a></td>
+          </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="20" background="images/100_line_bottom.png">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="40" valign="top"><div align="center"><a href="index.html">Back to Homepage</a> | <a href="contact.html">Contact</a> | <a href="references.html">References and Legal</a> |<a href="privacy.html" rel="nofollow"> Privacy Policy</a></div></td>
+  </tr>
+</table>
+</body>
+</html>

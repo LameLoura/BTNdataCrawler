@@ -1,0 +1,8 @@
+E:\chilly projects\new BTN data getter\getData\getData\bin\Debug\getData.exe
+E:\chilly projects\new BTN data getter\getData\getData\bin\Debug\getData.pdb
+E:\chilly projects\new BTN data getter\getData\getData\obj\x86\Debug\getData.Form1.resources
+E:\chilly projects\new BTN data getter\getData\getData\obj\x86\Debug\getData.Properties.Resources.resources
+E:\chilly projects\new BTN data getter\getData\getData\obj\x86\Debug\getData.csproj.GenerateResource.Cache
+E:\chilly projects\new BTN data getter\getData\getData\obj\x86\Debug\getData.exe
+E:\chilly projects\new BTN data getter\getData\getData\obj\x86\Debug\getData.pdb
+E:\chilly projects\new BTN data getter\getData\getData\obj\x86\Debug\getData.csprojResolveAssemblyReference.cache

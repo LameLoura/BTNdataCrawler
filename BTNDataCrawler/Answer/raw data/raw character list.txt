@@ -1,0 +1,616 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<META NAME="ROBOTS" CONTENT="NOODP">
+<title>Characters | Harvest Moon: Back to Nature</title>
+<meta name="description" content="A guide to interacting with all the characters and Harvest Sprites in the videogame Harvest Moon: Back to Nature on the PS1." />
+<meta name="keywords" content="Harvest Moon, Back to Nature, PS1, Videogame, Characters, Harvest Sprites" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="image_src" href="http://harvestmoonbacktonatureguide.com/images/facebook-thumbnail.png" />
+<script type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+//-->
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19538101-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body background="images/dark_bg.png" onload="MM_preloadImages('images/download_code_over.png','images/bluehost_over.png','images/donate_over.png','images/crops-over.png','images/animals-over.png','images/mining-over.png','images/fishing-over.png','images/tools-over.png','images/girls-over.png','images/characters-over.png','images/festivals-over.png','images/shops-over.png','images/cooking-over.png','images/berries-over.png','images/secrets-over.png','images/misc-over.png','images/shipping-over.png')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="80"><div align="center"><a href="index.html"><img src="images/logo.png" alt="Harvest Moon: Back to Nature Guide" width="649" height="50" /></a></div></td>
+  </tr>
+  <tr>
+    <td height="20" background="images/100_line_top.png">&nbsp;</td>
+  </tr>
+  <tr>
+    <td background="images/light_bg.png"><div align="center">
+      <table width="950" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td colspan="5"><a href="crops.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('crops','','images/crops-over.png',1)"><img src="images/crops-normal.png" alt="Crops" name="crops" width="77" height="30" border="0" id="crops" /></a><a href="animals.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('animals','','images/animals-over.png',1)"><img src="images/animals-normal.png" alt="Animals" name="animals" width="62" height="30" border="0" id="animals" /></a><a href="mining.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mining','','images/mining-over.png',1)"><img src="images/mining-normal.png" alt="Mining" name="mining" width="57" height="30" border="0" id="mining" /></a><a href="fishing.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fishing','','images/fishing-over.png',1)"><img src="images/fishing-normal.png" alt="Fishing" name="fishing" width="59" height="30" border="0" id="fishing" /></a><a href="tools.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tools','','images/tools-over.png',1)"><img src="images/tools-normal.png" alt="Tools" name="tools" width="51" height="30" border="0" id="tools" /></a><a href="girls.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('girls','','images/girls-over.png',1)"><img src="images/girls-normal.png" alt="Girls" name="girls" width="49" height="30" border="0" id="girls" /></a><a href="characters.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('characters','','images/characters-over.png',1)"><img src="images/characters-on.png" alt="Characters" width="82" height="30" /></a><a href="festivals.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('festivals','','images/festivals-over.png',1)"><img src="images/festivals-normal.png" alt="Festivals" name="festivals" width="70" height="30" border="0" id="festivals" /></a><a href="shops.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shops','','images/shops-over.png',1)"><img src="images/shops-normal.png" alt="Shops" name="shops" width="54" height="30" border="0" id="shops" /></a><a href="cooking.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cooking','','images/cooking-over.png',1)"><img src="images/cooking-normal.png" alt="Cooking and Recipes" name="cooking" width="63" height="30" border="0" id="cooking" /></a><a href="berries.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('berries','','images/berries-over.png',1)"><img src="images/berries-normal.png" alt="Power Berries" name="berries" width="99" height="30" border="0" id="berries" /></a><a href="secrets.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('secrets','','images/secrets-over.png',1)"><img src="images/secrets-normal.png" alt="Secrets and Cheats" name="secrets" width="65" height="30" border="0" id="secrets" /></a><a href="misc.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('misc','','images/misc-over.png',1)"><img src="images/misc-normal.png" alt="Misc" name="misc" width="47" height="30" border="0" id="misc" /></a><a href="shipping-list.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shipping','','images/shipping-over.png',1)"><img src="images/shipping-normal.png" alt="Shipping List" name="shipping" width="115" height="30" border="0" id="shipping" /></a></td>
+          </tr>
+        <tr>
+          <td height="20" colspan="5" background="images/950_line.png">&nbsp;</td>
+          </tr>
+        <tr>
+          <td height="90" colspan="5"><table width="950" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="45" height="45"><a href="http://www.facebook.com/pages/Harvest-Moon-Back-to-Nature-Guide/219404698074699" rel="nofollow" target="_blank"><img src="images/facebook.png" alt="Like our page on Facebook" width="45" height="45" /></a></td>
+              <td width="140"><a href="http://www.facebook.com/pages/Harvest-Moon-Back-to-Nature-Guide/219404698074699" rel="nofollow" target="_blank">Like our page on Facebook</a></td>
+              <td width="15" rowspan="2" background="images/vertical_line.png">&nbsp;</td>
+              <td width="11" rowspan="2" background="images/ad-left.png">&nbsp;</td>
+              <td width="728" rowspan="2" bgcolor="f9f9f9"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4088118470579652";
+/* HM BTN: Guide */
+google_ad_slot = "3003115263";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+          </script>
+                  <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script></td>
+              <td width="11" rowspan="2" background="images/ad-right.png">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="45"><a href="http://twitter.com/#!/hmbtnguide" rel="nofollow" target="_blank"><img src="images/twitter.png" alt="Follow us on Twitter" width="45" height="45" /></a></td>
+              <td width="140" height="45"><a href="http://twitter.com/#!/hmbtnguide" rel="nofollow" target="_blank">Follow us on Twitter</a></td>
+            </tr>
+          </table></td>
+          </tr>
+        <tr>
+          <td height="20" colspan="5" background="images/950_line.png">&nbsp;</td>
+          </tr>
+        <tr>
+          <td colspan="5" background="images/light_bg.png"><p><strong>Jump to a Section: </strong><a href="characters.html#affection-levels">Character's Affection Levels</a>, <a href="characters.html#events">Events</a> or <a href="characters.html#harvest-sprites">The Harvest Sprites</a></p>
+              <p>&nbsp;</p>
+            <p>In <a href="http://www.amazon.com/mn/search/?_encoding=UTF8&tag=ultimoriga-20&linkCode=ur2&camp=1789&creative=390957&field-keywords=harvest%20moon%20back%20to%20nature&url=search-alias%3Daps" rel="nofollow" target="_blank">Harvest Moon: Back to Nature</a> there are a ton of characters that you can befriend. Like the girls in this videogame they all have their own likes, dislikes, birthdays personalities and schedules. If you become really good friends with a character they'll tell you their favourite recipe. Recipes you cook add to your farm percentage. By becoming realy good friends with these characters you'll also be able to enter the locked rooms in their houses.</p>
+            <p>&nbsp;</p>
+            <table width="950" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="75"><a href="anna.html"><img src="images/anna_face.png" alt="Anna" width="75" height="75" /></a></td>
+                  <td width="35">&nbsp;</td>
+                  <td width="75"><a href="barley.html"><img src="images/barley_face.png" alt="Barley" width="75" height="75" /></a></td>
+                  <td width="35">&nbsp;</td>
+                  <td width="75"><a href="basil.html"><img src="images/basil_face.png" alt="Basil" width="75" height="75" /></a></td>
+                  <td width="34">&nbsp;</td>
+                  <td width="75"><a href="cliff.html"><img src="images/cliff_face.png" alt="Cliff" width="75" height="75" /></a></td>
+                  <td width="34">&nbsp;</td>
+                  <td width="75"><a href="doctor.html"><img src="images/doctor_face.png" alt="Doctor Tim" width="75" height="75" /></a></td>
+                  <td width="34">&nbsp;</td>
+                  <td width="75"><a href="doug.html"><img src="images/doug_face.png" alt="Doug" width="75" height="75" /></a></td>
+                  <td width="34">&nbsp;</td>
+                  <td width="75"><a href="duke.html"><img src="images/duke_face.png" alt="Duke" width="75" height="75" /></a></td>
+                  <td width="34">&nbsp;</td>
+                  <td width="75"><a href="ellen.html"><img src="images/ellen_face.png" alt="Ellen" width="75" height="75" /></a></td>
+                  <td width="35">&nbsp;</td>
+                  <td width="75"><a href="gotz.html"><img src="images/gotz_face.png" alt="Gotz" width="75" height="75" /></a></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><div align="center"><a href="anna.html">Anna</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="barley.html">Barley</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="basil.html">Basil</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="cliff.html">Cliff</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="doctor.html">Doctor Tim</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="doug.html">Doug</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="duke.html">Duke</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="ellen.html">Ellen</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="gotz.html">Gotz</a></div></td>
+                </tr>
+                <tr>
+                  <td width="75">&nbsp;</td>
+                  <td width="29">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                  <td width="28">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                  <td width="28">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                  <td width="28">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                  <td width="28">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                  <td width="28">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                  <td width="28">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                  <td width="28">&nbsp;</td>
+                  <td width="75">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><a href="gray.html"><img src="images/gray_face.png" alt="Gray" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="greg.html"><img src="images/greg_face.png" alt="Greg" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="harris.html"><img src="images/harris_face.png" alt="Harris" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="jeff.html"><img src="images/jeff_face.png" alt="Jeff" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="kai.html"><img src="images/kai_face.png" alt="Kai" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="kano.html"><img src="images/kano_face.png" alt="Kano" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="lillia.html"><img src="images/lillia_face.png" alt="Lillia" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="louis.html"><img src="images/louis_face.png" alt="Louis" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="manna.html"><img src="images/manna_face.png" alt="Manna" width="75" height="75" /></a></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><div align="center"><a href="gray.html">Gray</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="greg.html">Greg</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="harris.html">Harris</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="jeff.html">Jeff</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="kai.html">Kai</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="kano.html">Kano</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="lillia.html">Lillia</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="louis.html">Louis</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="manna.html">Manna</a></div></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><a href="may.html"><img src="images/may_face.png" alt="May" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="mayor.html"><img src="images/mayor_face.png" alt="Mayor Thomas" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="pastor.html"><img src="images/pastor_face.png" alt="Pastor Carter" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="rick.html"><img src="images/rick_face.png" alt="Rick" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="saibara.html"><img src="images/saibara_face.png" alt="Saibara" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="sasha.html"><img src="images/sasha_face.png" alt="Sasha" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="stu.html"><img src="images/stu_face.png" alt="Stu" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="won.html"><img src="images/won_face.png" alt="Won" width="75" height="75" /></a></td>
+                  <td>&nbsp;</td>
+                  <td><a href="zack.html"><img src="images/zack_face.png" alt="Zack" width="75" height="75" /></a></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><div align="center"><a href="may.html">May</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="mayor.html">Mayor Thomas</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="pastor.html">Pastor Carter</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="rick.html">Rick</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="saibara.html">Saibara</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="sasha.html">Sasha</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="stu.html">Stu</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="won.html">Won</a></div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center"><a href="zack.html">Zack</a></div></td>
+                </tr>
+              </table>
+            <p>&nbsp;</p>
+            <table width="950" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="20" colspan="4" background="images/950_line.png">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="196" height="90"><a href="http://www.amazon.com/gp/product/B004MW4FE4/ref=as_li_tf_tl?ie=UTF8&amp;tag=hmbtn-ad-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B004MW4FE4" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('download-small','','images/download-small-over.png',1)"><img src="images/download-small.png" alt="Download Harvest Moon: Back to Nature" name="download-small" width="196" height="90" border="0" id="download-small" /></a></td>
+                <td width="15" background="images/vertical_line.png">&nbsp;</td>
+                <td width="11">&nbsp;</td>
+                <td width="728" bgcolor="f9f9f9"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4088118470579652";
+/* HM: BTN Guide Middle */
+google_ad_slot = "3595368083";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+            </script>
+                    <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+              </script></td>
+              </tr>
+              <tr>
+                <td height="20" colspan="4" background="images/950_line.png">&nbsp;</td>
+              </tr>
+            </table>
+            <p>&nbsp;</p>
+            <h1><a name="affection-levels" id="affection-levels">Character's Affection Levels</a></h1>
+            <p>The villagers affection levels in <a href="http://www.amazon.com/mn/search/?_encoding=UTF8&tag=ultimoriga-20&linkCode=ur2&camp=1789&creative=390957&field-keywords=harvest%20moon%20back%20to%20nature&url=search-alias%3Daps" rel="nofollow" target="_blank">Harvest Moon: Back to Nature</a> work much like the girls however the numbers are all much lower.</p>
+            <p>All characters start out with 50 affection and can have a maximum of 255 affection in this videogame. There unfortunately isn't really any way to check their affection levels though. </p>
+            <p>Every night there's a very low percent chance that a character's affection might randomly go down 1 point. As long as you try to talk to people at least somewhat often then this should never be a problem. </p>
+            <p>As long as you speak to a character once or give them a gift their affection will go up by 1 at the start of the next day in the game.</p>
+            <p>You can give multiple gifts to a character in the same day and increase your affection with them. You don't get quite as nice an amount of affection from multiple gifts as you do with the girls though.</p>
+            <p>&nbsp;</p>
+            <h2>How the first gift given in a day affects a character's affection levels</h2>
+            <table width="950" border="0" cellspacing="0" cellpadding="0" class="lines">
+                <tr>
+                  <td width="110" background="images/villager_bg.png"><strong>Type of Gift</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Average day, not wrapped</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Average day, wrapped</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Birthday, not wrapped</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Birthday, wrapped</strong></td>
+                </tr>
+                <tr>
+                  <td>Hated</td>
+                  <td>-9</td>
+                  <td>-7</td>
+                  <td>-45</td>
+                  <td>-43</td>
+                </tr>
+                <tr>
+                  <td>Disliked</td>
+                  <td>-3</td>
+                  <td>-1</td>
+                  <td>-15</td>
+                  <td>-13</td>
+                </tr>
+                <tr>
+                  <td>Neutral</td>
+                  <td>+1</td>
+                  <td>+3</td>
+                  <td>+5</td>
+                  <td>+7</td>
+                </tr>
+                <tr>
+                  <td>Liked</td>
+                  <td>+3</td>
+                  <td>+5</td>
+                  <td>+15</td>
+                  <td>+17</td>
+                </tr>
+                <tr>
+                  <td>Loved</td>
+                  <td>+9</td>
+                  <td>+11</td>
+                  <td>+45</td>
+                  <td>+47</td>
+                </tr>
+                <tr>
+                  <td>Jewelry</td>
+                  <td>+3</td>
+                  <td>+5</td>
+                  <td>+15</td>
+                  <td>+17</td>
+                </tr>
+              </table>
+            <p>&nbsp;</p>
+            <h2>How additional gifts given in a day affect a character's affection levels</h2>
+            <table width="950" border="0" cellspacing="0" cellpadding="0" class="lines">
+                <tr>
+                  <td width="110" background="images/villager_bg.png"><strong>Type of Gift</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Average day, not wrapped</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Average day, wrapped</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Birthday, not wrapped</strong></td>
+                  <td width="210" background="images/villager_bg.png"><strong>Birthday, wrapped</strong></td>
+                </tr>
+                <tr>
+                  <td>Hated</td>
+                  <td>-9</td>
+                  <td>-10</td>
+                  <td>-45</td>
+                  <td>-50</td>
+                </tr>
+                <tr>
+                  <td>Disliked</td>
+                  <td>-3</td>
+                  <td>-4</td>
+                  <td>-15</td>
+                  <td>-20</td>
+                </tr>
+                <tr>
+                  <td>Neutral</td>
+                  <td>0</td>
+                  <td>-1</td>
+                  <td>0</td>
+                  <td>-5</td>
+                </tr>
+                <tr>
+                  <td>Liked</td>
+                  <td>1</td>
+                  <td>0</td>
+                  <td>+5</td>
+                  <td>0</td>
+                </tr>
+                <tr>
+                  <td>Loved</td>
+                  <td>3</td>
+                  <td>2</td>
+                  <td>+15</td>
+                  <td>+40</td>
+                </tr>
+                <tr>
+                  <td>Jewelry</td>
+                  <td>1</td>
+                  <td>0</td>
+                  <td>+5</td>
+                  <td>0</td>
+                </tr>
+              </table>
+            <p>&nbsp;</p>
+            <h1><a name="events" id="events">Events</a></h1>
+            <p>There are also a ton of events in <a href="http://www.amazon.com/mn/search/?_encoding=UTF8&tag=ultimoriga-20&linkCode=ur2&camp=1789&creative=390957&field-keywords=harvest%20moon%20back%20to%20nature&url=search-alias%3Daps" rel="nofollow" target="_blank">Harvest Moon: Back to Nature</a> with these characters that will happen depending on certain conditions. Like the <a href="girls.html#events">events with the girls</a> however nobody on the Internet seems to know how to trigger most of these events so you're just going to have to play the videogame and hope for the best.</p>
+            <p>&nbsp;</p>
+            <table width="950" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="20" colspan="4" background="images/950_line.png">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="196" height="90"><a href="http://www.amazon.com/gp/product/B004MW4FE4/ref=as_li_tf_tl?ie=UTF8&amp;tag=hmbtn-ad-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B004MW4FE4" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('download-small21','','images/download-small-over.png',1)"><img src="images/download-small.png" alt="Download Harvest Moon: Back to Nature" name="download-small21" width="196" height="90" border="0" id="download-small21" /></a></td>
+                <td width="15" background="images/vertical_line.png">&nbsp;</td>
+                <td width="11">&nbsp;</td>
+                <td width="728" bgcolor="f9f9f9"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4088118470579652";
+/* HM: BTN Guide Bottom */
+google_ad_slot = "7374139092";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+            </script>
+                    <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+              </script></td>
+              </tr>
+              <tr>
+                <td height="20" colspan="4" background="images/950_line.png">&nbsp;</td>
+              </tr>
+            </table>
+            <p>&nbsp;</p>
+            <h1><a name="harvest-sprites" id="harvest-sprites">The Harvest Sprites</a></h1>
+            <p>You can find the Harvest Sprites in the smal hut behind the church. You can ask the sprites to work on your farm doing things such as watering crops, taking care of your animals or harvesting crops. For the record I have never hired the Harvest Sprites to do any work in any of my playthroughs of this videogame.</p>
+            <p>If you speak to them twice you can get them to work on your farm. During the spring all they talk about is a tea party and you'll have to speak to them 5 times to get them to do any work for you.</p>
+            <p>The Harvest Sprites have heart levels that go up every 25 affection points. They also lose 2 affection every time you make them work.</p>
+            <p>They also have a hidden skill level for various jobs that starts out at 0 for each job. As you get them to do work for you this skill level will go up by one point and they'll eventually get less terrible at doing the work. The maximum skill level for each job is 255 points.</p>
+            <p>The harvest sprites in this videogame all like and dislike the same things and they gain affection at the same rate as the villagers. They all have different birthdays which are listed below.</p>
+            <p>&nbsp;</p>
+            <table width="950" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="75"><img src="images/chef_face.png" alt="Chef" width="75" height="75" /></td>
+                  <td width="71">&nbsp;</td>
+                  <td width="75"><img src="images/nappy_face.png" alt="Nappy" width="75" height="75" /></td>
+                  <td width="71">&nbsp;</td>
+                  <td width="75"><img src="images/hoggy_face.png" alt="Hoggy" width="75" height="75" /></td>
+                  <td width="71">&nbsp;</td>
+                  <td width="75"><img src="images/timid_face.png" alt="Timid" width="75" height="75" /></td>
+                  <td width="71">&nbsp;</td>
+                  <td width="75"><img src="images/aqua_face.png" alt="Aqua" width="75" height="75" /></td>
+                  <td width="71">&nbsp;</td>
+                  <td width="75"><img src="images/staid_face.png" alt="Staid" width="75" height="75" /></td>
+                  <td width="70">&nbsp;</td>
+                  <td width="75"><img src="images/bold_face.png" alt="Bold" width="75" height="75" /></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><div align="center">Chef</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Nappy</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Hoggy</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Timid</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Aqua</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Staid</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Bold</div></td>
+                </tr>
+                <tr>
+                  <td><div align="center">Fall 14</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Winter 22</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Fall 10</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Summer 16</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Spring 26</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Spring 15</div></td>
+                  <td>&nbsp;</td>
+                  <td><div align="center">Spring 4</div></td>
+                </tr>
+              </table>
+            <p>&nbsp;</p>
+            <p>Probably the easiest way to get the harvest sprites to like you is to just buy a ton of flour at the supermarket and give it to them.</p>
+            <p>&nbsp;</p>
+            <table width="950" border="0" cellspacing="0" cellpadding="0" class="lines">
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Loves</strong></td>
+                </tr>
+                <tr>
+                  <td>Apple Jam, Apple Pie, Bodigizer, Bodigizer XL, Bread, Butter, Cake, Chocolate Cake, Chocolate Cookie, Cookie, Flour, Fruit Juice, Grape Jam, Honey, Hot Milk, Jewelry, Mixed Juice, Omelet, Pizza, Pumpkin Pudding, Raisin Bread, Relaxation Tea, Relaxation Tea Leaves, Strawberry Jam, Strawberry Milk, Sweet Potato (dish), Turbojolt XL, Wild Grape, Wine and Yarn Ball</td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Likes</strong></td>
+                </tr>
+                <tr>
+                  <td>Apple, Blue Grass, Blue Magic Red Flower, Boiled Egg, Carrot, Cheese, Cheese Fondue, Cheesecake, Chocolate, Egg, Fruit Latte, Gold Egg, Grape Juice, Ice Cream, Jam Bun, Mayonnaise, Milk, Mixed Latte, Moondrop Flower, Mushroom Rice, Oil, Orange Cup Fruit, Pineapple, Pink Cat Flower, Pumpkin, Red Grass, Red Magic Red Flower, Rice Omelet, Spinach, Stew, Strawberry, SUGDW Apple, Tomato Juice, Toy Flower, Truffle, Turbojolt, Turnip, Vegetable Juice and Wool</td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Neutral</strong></td>
+                </tr>
+                <tr>
+                  <td>Bamboo Rice, Bamboo Shoot, Bandage, Cabbage, Chicken Feed, Corn, Cucumber, Curry, Dinner Roll, Eggplant, Fish Food, Fodder, Fried Rice, Fries, Green Pepper, Grilled Fish, Ketchup, Ketchup Recipe, Lumber, Miso Soup, Mushroom, Onion, Popcorn, Potato, Rice Ball, Roasted Potatoes, Salad, Sandwich, Small Fish, Spa-Boiled Egg, Stir Fry, Sweet Potato, Tempura, Tomato, Truffle Rice, Veggie Latte, Veggie Pancake and Winter Lumber </td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Dislikes</strong></td>
+                </tr>
+                <tr>
+                  <td>Chirashi Sushi, Curry Noodles, Curry Powder, Fried Noodles, Greens, Happy Eggplant, Large Fish, Medium Fish, Noodles, Pickled Turnips, Pickles, Sashimi, Scrambled Eggs, Sushi and Tempura Noodles</td>
+                </tr>
+                <tr>
+                  <td height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td background="images/villager_bg.png"><strong>Hates</strong></td>
+                </tr>
+                <tr>
+                  <td>Adamantite, Branch, Copper Ore, Dead Weeds, Food Fiasco, Fries Recipe, Garbage, Gold Ore, Green Grass, Mystrile, Orichalc, Poisonous Mushroom, Silver Ore, Stone, Weeds, Winter Branch and Winter Stone</td>
+                </tr>
+              </table>
+            <p>&nbsp;</p></td>
+        </tr>
+        <tr>
+          <td height="20" colspan="5" background="images/950_line.png">&nbsp;</td>
+          </tr>
+          <tr>
+        <td width="300" height="120"><a href="http://www.amazon.com/gp/product/B004MW4FE4/ref=as_li_tf_tl?ie=UTF8&amp;tag=hmbtn-ad-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B004MW4FE4" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('download-harvest-moon-back-to-nature','','images/download-harvest-moon-back-to-nature-over.png',1)"><img src="images/download-harvest-moon-back-to-nature.png" alt="Download Harvest Moon: Back to Nature" name="download-harvest-moon-back-to-nature" width="300" height="100" border="0" id="download-harvest-moon-back-to-nature" /></a></td>
+          <td width="25" height="120">&nbsp;</td>
+          <td width="300" height="120"><a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;tag=ultimoriga-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957&amp;field-keywords=rune%20factory%20tides%20of%20destiny&amp;url=search-alias%3Daps" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rune-factory-oceans','','images/rune-factory-oceans-over.png',1)"><img src="images/rune-factory-oceans.png" alt="Rune Factory Oceans: On Sale Now!" name="rune-factory-oceans" width="300" height="100" border="0" id="rune-factory-oceans" /></a></td>
+          <td width="25" height="120">&nbsp;</td>
+          <td width="300" height="120"><a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;tag=ultimoriga-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957&amp;rh=i%3Aaps%2Ck%3Aharvest%20moon%20a%20tale%20of%20two%20towns&amp;field-keywords=harvest%20moon%20a%20tale%20of%20two%20towns&amp;url=search-alias%3Daps&amp;ajr=0" rel="nofollow" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('harvest-moon-a-tale-of-two-towns','','images/tale-of-two-towns-over.png',1)"><img src="images/tale-of-two-towns.png" alt="Harvest Moon: A Tale of Two Towns, Buy Now!" name="harvest-moon-a-tale-of-two-towns" width="300" height="100" border="0" id="harvest-moon-a-tale-of-two-towns" /></a></td>
+          </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="20" background="images/100_line_bottom.png">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="40" valign="top"><div align="center"><a href="index.html">Back to Homepage</a> | <a href="contact.html">Contact</a> | <a href="references.html">References and Legal</a> |<a href="privacy.html" rel="nofollow"> Privacy Policy</a></div></td>
+  </tr>
+</table>
+</body>
+</html>
